@@ -58,3 +58,4 @@ The same class/instance methods as your `City` object. Maybe there is a way they
 * [AR Validations](http://guides.rubyonrails.org/active_record_validations.html)
 * [Rails Callbacks](http://api.rubyonrails.org/classes/ActiveRecord/Callbacks.html)
 * [Date range overlaps](http://stackoverflow.com/questions/325933/determine-whether-two-date-ranges-overlap)
+# MiniRailsProjectBar
